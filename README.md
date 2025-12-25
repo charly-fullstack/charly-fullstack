@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi, I'm Charles
 
-<!--
-**charly-fullstack/charly-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a motivated **Java & Spring Boot learner** transitioning into backend development.
+After exploring cybersecurity, I realized my true interest lies in **building applications and solving problems through code**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm currently learning
+- Java (OOP, Collections, Exceptions)
+- Spring Boot
+- REST APIs
+- Git & GitHub
+
+---
+
+## Technologies
+- Java
+- Spring Boot
+- Maven
+- Git & GitHub
+- MySQL (soon)
+
+---
+
+## My goal
+Become a **professional Java backend developer**, secure a developer role, and eventually:
+- work in a top tech company
+- or build my own technology startup
+
+---
+
+## My mindset
+- Discipline over motivation  
+- Consistency every day  
+- Learning deeply, not rushing  
+
+---
+
+**Connect with me**  
+LinkedIn: www.linkedin.com/in/charles-mpon-a-dang-2b0649358
+
