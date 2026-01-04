@@ -1,9 +1,8 @@
-## Hi, I'm Charles 👋
+## Hi, I'm Charles
 
 I'm a **Java Backend Developer in training** with a strong academic background in **Software Engineering and Computer Science**.
-I am currently building solid expertise in **Java and Spring Boot**, with a focus on clean code, backend architecture, and problem-solving.
 
-Alongside backend development, I am pursuing a **Master’s degree in Cybersecurity**, which strengthens my understanding of secure systems and software robustness.
+I enjoy building backend applications, understanding how systems work under the hood, and solving problems through clean and structured code.
 
 ---
 
@@ -12,7 +11,7 @@ Alongside backend development, I am pursuing a **Master’s degree in Cybersecur
 - Spring Boot & REST APIs
 - Backend fundamentals
 - Git & GitHub
-- MySQL (coming soon)
+- MySQL
 
 ---
 
@@ -26,17 +25,14 @@ Alongside backend development, I am pursuing a **Master’s degree in Cybersecur
 ---
 
 ## Career goal
-To become a **professional Java Backend Developer**, contribute to real-world applications, and grow toward:
-- building scalable and secure backend systems
-- working in a strong engineering-driven tech environment
-- eventually creating my own technology startup
+To become a **professional Java Backend Developer**, work on meaningful backend systems, and grow toward building scalable applications.
 
 ---
 
 ## Mindset
 - Discipline over motivation  
 - Consistency every day  
-- Deep learning over shortcuts
+- Deep understanding over shortcuts
 
 ---
 
