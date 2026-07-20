@@ -7,20 +7,20 @@ I enjoy building backend applications, understanding how systems work under the 
 ---
 
 ## What I'm currently working on
-- Java (OOP, Collections, Exceptions)
-- Spring Boot & REST APIs
-- Backend fundamentals
+- Learning Java fundamentals
+- Object-Oriented Programming (OOP)
 - Git & GitHub
-- MySQL
+- Maven
+- Preparing for Spring Boot
 
 ---
 
 ## Technologies & Tools
 - Java
-- Spring Boot
+- Git
+- GitHub
 - Maven
-- Git & GitHub
-- MySQL
+- IntelliJ IDEA
 
 ---
 
@@ -37,5 +37,5 @@ To become a **professional Java Backend Developer**, work on meaningful backend 
 ---
 
 **Connect with me**  
-LinkedIn: www.linkedin.com/in/charles-mpon-a-dang-2b0649358
+LinkedIn: https://www.linkedin.com/in/charles-mpon-a-dang-2b0649358
 
